@@ -153,7 +153,7 @@ function displayBills(data) {
                 </tr>
                 <tr>
                     <td style="width: 90px !important;"><p style="font-size:20px;">GST:</p></td>
-                    <td style="padding-top:10px;"><span style="font-size:20px;">33AAACU0564G3ZM</span></td>
+                    <td style="padding-top:10px;"><span style="font-size:20px;">32AAACU0564G2ZP</span></td>
                    <td style="padding-left: 50px !important;"><p style="width: 100px !important; font-size:20px;">Branch :</p></td>
                     <td><span style="font-size:20px; text-align:start;">${branchName}</span></td>
                 </tr>
@@ -200,7 +200,7 @@ function displayBills(data) {
                         <td style="width: 90px; border-right:3px solid black; text-align: center;font-size: 20px;" colspan="2" id="nested-data">
                             <table id="nested-table">
                                 <tr id="nested-row">
-                                    <td id="nested-data" style="font-size: 20px;">GST @9%</td>
+                                    <td id="nested-data" style="font-size: 20px;">GST @18%</td>
                                 </tr>
                             </table>
                         </td>
